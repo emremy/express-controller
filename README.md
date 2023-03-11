@@ -20,7 +20,7 @@ Controller files should be created as "example.controller.ts". To find out if th
 
 The data that the controller file will export should be as follows.
 
-```yaml
+```
 export default {
 	handler: [
 		{
